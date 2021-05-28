@@ -1,0 +1,17 @@
+
+.imageSize {
+    
+    width: 600px;
+    height: auto;
+}
+
+
+.bounding-box{
+
+    position: absolute;
+    box-shadow: 0 0 0 3px #14f2b3 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
